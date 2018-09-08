@@ -1,0 +1,6 @@
+F:\C# Practice\1\understandingarray\understandingarray\bin\Debug\understandingarray.exe.config
+F:\C# Practice\1\understandingarray\understandingarray\bin\Debug\understandingarray.exe
+F:\C# Practice\1\understandingarray\understandingarray\bin\Debug\understandingarray.pdb
+F:\C# Practice\1\understandingarray\understandingarray\obj\Debug\understandingarray.csprojResolveAssemblyReference.cache
+F:\C# Practice\1\understandingarray\understandingarray\obj\Debug\understandingarray.exe
+F:\C# Practice\1\understandingarray\understandingarray\obj\Debug\understandingarray.pdb
